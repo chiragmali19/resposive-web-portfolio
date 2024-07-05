@@ -106,7 +106,7 @@ body {
     content: '';
     display: block;
     height: 100%;
-    background: #673ab7;
+    background: #ab89e7;
     width: var(--percentage);
     position: absolute;
     top: 0;
